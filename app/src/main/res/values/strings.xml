@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Starbuzz Coffee</string>
+    <string-array name="main_categories">
+        <item>Foods</item>
+        <item>Drinks</item>
+        <item>Stores</item>
+    </string-array>
+
+    <string-array name="drink_categories">
+        <item>Latte</item>
+        <item>Latte</item>
+        <item>Latte</item>
+    </string-array>
+</resources>
